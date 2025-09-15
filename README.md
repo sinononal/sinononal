@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi 👋 My name is Nonthawat Nilsonthi
+====================================
 
-<!--
-**sinononal/sinononal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer
+--------------------
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Thailand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sinononal"><img src="https://github-readme-stats.vercel.app/api?username=sinononal&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="sinononal's GitHub stats" /></a>
+
+<a href="http://www.github.com/sinononal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sinononal&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/sinononal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinononal&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
