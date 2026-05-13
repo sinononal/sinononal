@@ -20,16 +20,16 @@
 
 ## 🗡️ Player Status
 
-```yaml
+<pre>
 Player        : Nonthawat "sinononal" Nilsonthi
 Title         : « The Black Coder »
-Guild         : Knights of the Blood Oath ⚔️
+Guild         : MyOrder Intelligence <img src="https://avatars.githubusercontent.com/u/220615216?s=200&v=4" alt="MyOrder Intelligence" width="20" height="20" align="center" /> ⚔️
 Class         : Software Engineer
 Sub-Class     : Dual Wielder (Frontend × Backend)
 Current Floor : ████████████░░░░░░░░  Floor 75 / 100
 HP            : ██████████████████░░  Caffeine Sustained
 EXP to Level  : Always grinding...
-```
+</pre>
 
 ---
 
