@@ -38,13 +38,19 @@ EXP to Level  : Always grinding...
 <div align="center">
 
 **⚔️ Primary Blade — Frontend**
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+`Angular` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `RxJS`
 
 **🗡️ Secondary Blade — Backend (Dual Wielding Activated)**
-`Node.js` · `Python` · `Go` · `PostgreSQL` · `MongoDB`
+`Node.js` · `NestJS` · `Express` · `Go` · `REST API` · `GraphQL`
 
-**🛡️ Defensive Arts — DevOps & Tools**
-`Docker` · `Git` · `AWS` · `CI/CD` · `Linux`
+**🧪 Materialization Arts — Databases**
+`PostgreSQL` · `MongoDB` · `Redis`
+
+**🛡️ Defensive Arts — DevOps & Infrastructure**
+`Docker` · `Git` · `GitHub Actions` · `CI/CD` · `Linux` · `Nginx`
+
+**📖 Ancient Tomes — Testing & Methodology**
+`Jest` · `Postman` · `Swagger / OpenAPI` · `Agile / Scrum` · `TDD`
 
 </div>
 
@@ -61,15 +67,54 @@ EXP to Level  : Always grinding...
 
 ## 📊 Aincrad Combat Records
 
-<div align="center">
+```ansi
+╔══════════════════════════════════════════════════════════════╗
+║                  ⚔  SKILL  PROFICIENCY  ⚔                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  TypeScript    ████████████████████░   Lv. 95   « S Rank »   ║
+║  Node.js       ████████████████████░   Lv. 94   « S Rank »   ║
+║  Git           ███████████████████░░   Lv. 91   « S Rank »   ║
+║  NestJS        ██████████████████░░░   Lv. 88   « A Rank »   ║
+║  Angular       █████████████████░░░░   Lv. 86   « A Rank »   ║
+║  PostgreSQL    █████████████████░░░░   Lv. 84   « A Rank »   ║
+║  Tailwind CSS  █████████████████░░░░   Lv. 82   « A Rank »   ║
+║  MongoDB       ████████████████░░░░░   Lv. 80   « A Rank »   ║
+║  CI/CD         ████████████████░░░░░   Lv. 78   « B Rank »   ║
+║  Docker        ███████████████░░░░░░   Lv. 76   « B Rank »   ║
+║  REST / API    ███████████████░░░░░░   Lv. 75   « B Rank »   ║
+║  Linux         ██████████████░░░░░░░   Lv. 70   « B Rank »   ║
+║  Go            █████████████░░░░░░░░   Lv. 65   « B Rank »   ║
+║  Redis         ███████████░░░░░░░░░░   Lv. 55   « C Rank »   ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://github-readme-stats.vercel.app/api/?username=sinononal&show_icons=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0d0d0d&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+### ⚔️ Equipped Weapons — Loadout Distribution
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sinononal&theme=radical&hide_border=true&background=0d0d0d&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" alt="GitHub Streak" />
+```
+TypeScript    ████████████████░░░░░░░░░░░░░░░░░░  28%
+Node.js       ███████████████░░░░░░░░░░░░░░░░░░░  20%
+Angular       █████████░░░░░░░░░░░░░░░░░░░░░░░░░  13%
+NestJS        ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+Tailwind CSS  █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8%
+Go            ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6%
+PostgreSQL    ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
+Docker        ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%
+MongoDB       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%
+Git / CI-CD   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinononal&langs_count=10&layout=compact&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0d0d0d&hide_border=true&locale=en&custom_title=Equipped%20Weapons" alt="Top Languages" />
+### 📜 Battle Log — Career Stats
 
-</div>
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Floors Cleared      :  Production deploys without rollback │
+│  Boss Battles Won    :  Migrations executed at 3 AM         │
+│  Party Members       :  Microservices kept in formation     │
+│  Mana Pool           :  ∞  (powered by ☕ × N)              │
+│  Critical Hit Rate   :  When the bug repros on first try    │
+│  Status Effect       :  « Immune to YAML indentation »      │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
