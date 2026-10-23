@@ -1,128 +1,90 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║          « LINK START »  —  WELCOME TO AINCRAD           ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+# Nonthawat Nilsonthi
 
-# ⚔️ Nonthawat Nilsonthi
+**Software Engineer · Full-Stack (Angular × Node.js × Go) · Thailand 🇹🇭**
 
-### `Player_ID: sinononal`  •  `Class: Software Engineer`  •  `Realm: Thailand 🇹🇭`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Building+reliable+web+applications+end-to-end;Angular+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+Go;Clean+code%2C+clear+APIs%2C+calm+deployments)](https://github.com/sinononal)
 
-> *"This is not a game. From this day forward, every line of code... is real."*
+[![GitHub](https://img.shields.io/badge/GitHub-sinononal-181717?style=flat-square&logo=github)](https://github.com/sinononal)
+![MyOrder Intelligence](https://img.shields.io/badge/@-MyOrder%20Intelligence-7C3AED?style=flat-square)
 
 </div>
 
 ---
 
-## 🗡️ Player Status
+### 👋 About Me
 
-<pre>
-Player        : Nonthawat "sinononal" Nilsonthi
-Title         : « The Black Coder »
-Guild         : MyOrder Intelligence <img src="https://avatars.githubusercontent.com/u/220615216?s=200&v=4" alt="MyOrder Intelligence" width="20" height="20" align="center" />
-Class         : Software Engineer
-Sub-Class     : Dual Wielder (Frontend × Backend)
-Current Floor : ████████████░░░░░░░░  Floor 75 / 100
-HP            : ██████████████████░░  Caffeine Sustained
-EXP to Level  : Always grinding...
-</pre>
+I'm a full-stack software engineer at **MyOrder Intelligence**, focused on building web applications that are
+maintainable, well-tested, and easy to operate. I work across the stack — from responsive Angular frontends
+to API services in Node.js / NestJS and Go (Golang) — and care about the details that make software dependable in production.
+
+- 💼 **Currently** — building product features and services at MyOrder Intelligence
+- 🌱 **Learning** — system design and distributed architectures
+- 🤝 **Open to** — collaborating on open-source and side projects
+- ⚙️ **Approach** — readable code, clear interfaces, automated pipelines
 
 ---
 
-## 🎮 Sword Skills (Tech Stack)
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Go](https://img.shields.io/badge/Go_(Golang)-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Testing & Practices**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=black)
+![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Agile](https://img.shields.io/badge/Agile_/_Scrum-4B5563?style=flat-square)
+
+---
+
+### 🎯 What I Work On
+
+| Area | Focus |
+|---|---|
+| **Frontend** | Component-driven Angular apps, reactive state with RxJS, accessible and responsive UI |
+| **Backend** | REST APIs with NestJS / Express and Go, service design, data modeling |
+| **Delivery** | Containerized services, CI/CD with GitHub Actions, predictable releases |
+| **Quality** | Unit & integration testing, API contracts with OpenAPI, code review |
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
 
-**⚔️ Primary Blade — Frontend**
-`Angular` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `RxJS`
-
-**🗡️ Secondary Blade — Backend (Dual Wielding Activated)**
-`Node.js` · `NestJS` · `Express` · `Go` · `REST API` · `GraphQL`
-
-**🧪 Materialization Arts — Databases**
-`PostgreSQL` · `MongoDB` · `Redis`
-
-**🛡️ Defensive Arts — DevOps & Infrastructure**
-`Docker` · `Git` · `GitHub Actions` · `CI/CD` · `Linux` · `Nginx`
-
-**📖 Ancient Tomes — Testing & Methodology**
-`Jest` · `Postman` · `Swagger / OpenAPI` · `Agile / Scrum` · `TDD`
-
-</div>
-
----
-
-## 📜 Quest Log
-
-- 🔭 **Active Quest** — Clearing the boss room on the next floor of production
-- 🌱 **Training Arc** — Mastering system design & distributed architectures
-- 💬 **Party Recruitment** — Open to collaborate on open-source raids
-- ⚡ **Unique Skill** — Turning *"it works on my machine"* into *"it works everywhere"*
-
----
-
-## 📊 Aincrad Combat Records
-
-```ansi
-╔══════════════════════════════════════════════════════════════╗
-║                  ⚔  SKILL  PROFICIENCY  ⚔                    ║
-╠══════════════════════════════════════════════════════════════╣
-║  TypeScript    ████████████████████░   Lv. 95   « S Rank »   ║
-║  Node.js       ████████████████████░   Lv. 94   « S Rank »   ║
-║  Git           ███████████████████░░   Lv. 91   « S Rank »   ║
-║  NestJS        ██████████████████░░░   Lv. 88   « A Rank »   ║
-║  Angular       █████████████████░░░░   Lv. 86   « A Rank »   ║
-║  PostgreSQL    █████████████████░░░░   Lv. 84   « A Rank »   ║
-║  Tailwind CSS  █████████████████░░░░   Lv. 82   « A Rank »   ║
-║  MongoDB       ████████████████░░░░░   Lv. 80   « A Rank »   ║
-║  CI/CD         ████████████████░░░░░   Lv. 78   « B Rank »   ║
-║  Docker        ███████████████░░░░░░   Lv. 76   « B Rank »   ║
-║  REST / API    ███████████████░░░░░░   Lv. 75   « B Rank »   ║
-║  Linux         ██████████████░░░░░░░   Lv. 70   « B Rank »   ║
-║  Go            █████████████░░░░░░░░   Lv. 65   « B Rank »   ║
-║  Redis         ███████████░░░░░░░░░░   Lv. 55   « C Rank »   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### ⚔️ Equipped Weapons — Loadout Distribution
-
-```
-TypeScript    ████████████████░░░░░░░░░░░░░░░░░░  28%
-Node.js       ███████████████░░░░░░░░░░░░░░░░░░░  20%
-Angular       █████████░░░░░░░░░░░░░░░░░░░░░░░░░  13%
-NestJS        ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
-Tailwind CSS  █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   8%
-Go            ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6%
-PostgreSQL    ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
-Docker        ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%
-MongoDB       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%
-Git / CI-CD   ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%
-```
-
-### 📜 Battle Log — Career Stats
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Floors Cleared      :  Production deploys without rollback │
-│  Boss Battles Won    :  Migrations executed at 3 AM         │
-│  Party Members       :  Microservices kept in formation     │
-│  Mana Pool           :  ∞  (powered by ☕ × N)              │
-│  Critical Hit Rate   :  When the bug repros on first try    │
-│  Status Effect       :  « Immune to YAML indentation »      │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🌐 Send a Friend Request
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/sinononal)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sinononal&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinononal&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED" alt="Top languages" />
 
 </div>
 
@@ -130,12 +92,6 @@ Git / CI-CD   ██░░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────┐
-│  «  See you on the next floor, Player.  »   │
-└─────────────────────────────────────────────┘
-```
-
-*Thanks for visiting — may your builds always pass and your merges never conflict.* ⚔️
+*Thanks for stopping by — feel free to reach out or explore my repositories.*
 
 </div>
