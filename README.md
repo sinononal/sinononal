@@ -64,6 +64,7 @@ to API services in Node.js / NestJS and Go (Golang) — and care about the detai
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=black)
 ![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Agile](https://img.shields.io/badge/Agile_/_Scrum-4B5563?style=flat-square)
 ![TDD](https://img.shields.io/badge/TDD-4B5563?style=flat-square)
