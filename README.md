@@ -2,9 +2,9 @@
 
 # Nonthawat Nilsonthi
 
-**Software Engineer · Full-Stack (Angular × Node.js) · Thailand 🇹🇭**
+**Software Engineer · Full-Stack (Angular × Node.js × Go) · Thailand 🇹🇭**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Building+reliable+web+applications+end-to-end;Angular+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+NestJS;Clean+code%2C+clear+APIs%2C+calm+deployments)](https://github.com/sinononal)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&lines=Building+reliable+web+applications+end-to-end;Angular+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+Go;Clean+code%2C+clear+APIs%2C+calm+deployments)](https://github.com/sinononal)
 
 [![GitHub](https://img.shields.io/badge/GitHub-sinononal-181717?style=flat-square&logo=github)](https://github.com/sinononal)
 ![MyOrder Intelligence](https://img.shields.io/badge/@-MyOrder%20Intelligence-7C3AED?style=flat-square)
@@ -17,7 +17,7 @@
 
 I'm a full-stack software engineer at **MyOrder Intelligence**, focused on building web applications that are
 maintainable, well-tested, and easy to operate. I work across the stack — from responsive Angular frontends
-to API services in Node.js / NestJS — and care about the details that make software dependable in production.
+to API services in Node.js / NestJS and Go (Golang) — and care about the details that make software dependable in production.
 
 - 💼 **Currently** — building product features and services at MyOrder Intelligence
 - 🌱 **Learning** — system design and distributed architectures
@@ -43,7 +43,7 @@ to API services in Node.js / NestJS — and care about the details that make sof
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go_(Golang)-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Data**
@@ -75,7 +75,7 @@ to API services in Node.js / NestJS — and care about the details that make sof
 | Area | Focus |
 |---|---|
 | **Frontend** | Component-driven Angular apps, reactive state with RxJS, accessible and responsive UI |
-| **Backend** | REST & GraphQL APIs with NestJS / Express, service design, data modeling |
+| **Backend** | REST & GraphQL APIs with NestJS / Express and Go, service design, data modeling |
 | **Delivery** | Containerized services, CI/CD with GitHub Actions, predictable releases |
 | **Quality** | Unit & integration testing, API contracts with OpenAPI, code review |
 
