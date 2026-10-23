@@ -44,7 +44,6 @@ to API services in Node.js / NestJS and Go (Golang) — and care about the detai
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Go](https://img.shields.io/badge/Go_(Golang)-00ADD8?style=flat-square&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Data**
 
@@ -57,7 +56,6 @@ to API services in Node.js / NestJS and Go (Golang) — and care about the detai
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Testing & Practices**
@@ -67,7 +65,6 @@ to API services in Node.js / NestJS and Go (Golang) — and care about the detai
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=black)
 ![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Agile](https://img.shields.io/badge/Agile_/_Scrum-4B5563?style=flat-square)
-![TDD](https://img.shields.io/badge/TDD-4B5563?style=flat-square)
 
 ---
 
@@ -76,7 +73,7 @@ to API services in Node.js / NestJS and Go (Golang) — and care about the detai
 | Area | Focus |
 |---|---|
 | **Frontend** | Component-driven Angular apps, reactive state with RxJS, accessible and responsive UI |
-| **Backend** | REST & GraphQL APIs with NestJS / Express and Go, service design, data modeling |
+| **Backend** | REST APIs with NestJS / Express and Go, service design, data modeling |
 | **Delivery** | Containerized services, CI/CD with GitHub Actions, predictable releases |
 | **Quality** | Unit & integration testing, API contracts with OpenAPI, code review |
 
